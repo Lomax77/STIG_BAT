@@ -4,7 +4,7 @@ Transfer the entire IT folder to the C:/ drive
 
 Remove USB drive
 
-Right Click lgpo_script.bat and run as Administrator
+Right Click lgpo_script.bat and run as Administrator (Open with Notepad or Notepad++ to edit. This script applies OCT24 STIGs.)
 
 The script runs in sections, and needs the user to press enter to continue. The command line window will close automatically when script is complete.
 
