@@ -1,5 +1,13 @@
 ********STIG/Group-Policy-Object(GPO) Update Instructions********
 
+I placed contents in a folder named 'IT' (You can name it whatever you like, but make sure to reference it in the script.)
+
+Download Checklist Resource
+Click on the following link to download:
+https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_STIG_GPO_Package_October_2024.zip (or latest version. make sure to reference any other version in the script.)
+
+add this to the 'IT' folder
+
 Transfer the entire IT folder to the C:/ drive 
 
 Remove USB drive
