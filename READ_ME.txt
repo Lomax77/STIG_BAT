@@ -8,7 +8,7 @@ Right Click lgpo_script.bat and run as Administrator
 
 The script runs in sections, and needs the user to press enter to continue. The command line window will close automatically when script is complete.
 
-Navigate to scc-5.10.1_Windows_bundle-->scc-5.10.1_Windows-->scc-5.10.1_Windows-->scc-5.10.1-->scc (Application)
+Navigate to scc-5.10.1
 
 Open Application (May take up to 30 seconds to open)
 
