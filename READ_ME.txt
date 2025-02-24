@@ -19,7 +19,7 @@ The script runs in sections, and needs the user to press enter to continue. The 
 Click on the following link to download:
 https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/scc-5.10.1_Windows_bundle.zip
 
-Navigate to scc-5.10.1
+Navigate to scc-5.10.1 (Install not needed. Standalone app is in the last folder.)
 
 Open Application (May take up to 30 seconds to open)
 
