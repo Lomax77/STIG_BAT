@@ -1,0 +1,5 @@
+SCC - 5.10.1 on host TROOP-T21-2D8L014 running Microsoft Windows 11 Pro 23H2 (Intel64 Family 6 Model 154 Stepping 4)
+
+    Time	 Level	Message
+
+06:59:05	WARN	DISA Checklist CKL report creation for Microsoft_Windows_11_STIG was skipped because the results do not contain the entire STIG Manual.  Install NIWC's 'Enhanced' SCAP content, or disable the DISA CKL report generation.
